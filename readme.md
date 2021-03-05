@@ -1,3 +1,5 @@
+![example workflow](https://github.com/RaghavAwasthi/Template/actions/workflows/check.yaml/badge.svg)
+![AUR license](https://img.shields.io/aur/license/android-studio)
 # Template Android App 
 The repository serves as a template to bootstrap your next awesome project.
 
