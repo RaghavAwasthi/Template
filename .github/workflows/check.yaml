@@ -49,7 +49,7 @@ jobs:
     timeout-minutes: 30
     strategy:
       matrix:
-        api-level: [30] # You can enable the API Levels as per your needs by passing them as array.
+        api-level: [29] # You can enable the API Levels as per your needs by passing them as array.
         # For Brevity I have added the latest API Level 
 
     steps:
